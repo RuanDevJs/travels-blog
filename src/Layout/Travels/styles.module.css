@@ -1,0 +1,47 @@
+.travels {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, auto));
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1rem;
+
+  margin: 1.170rem;
+  padding: 1rem;
+}
+
+.poster > img{
+  display: block;
+  width: 100%;
+  height: 320px;
+
+  object-fit: cover;
+  border-radius: 4px;
+
+  margin: 0 auto;
+}
+
+.poster > h2 {
+  max-width: 260px;
+  padding: 12px;
+
+  font-size: 1.175rem;
+  font-weight: 500;
+  color: var(--dark);
+
+  background-color: #f2f2f2;
+  opacity: 0.92;
+  border-radius: 4px;
+
+  position: relative;
+  top: -20px;
+}
+
+@media only screen and (max-width: 728px) {
+  .poster:nth-child(1){
+    margin: 1rem;
+  }
+
+  .poster:nth-child(2){
+    display: none;
+  }
+}

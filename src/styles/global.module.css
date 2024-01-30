@@ -1,0 +1,29 @@
+:root {
+  --dark: #0A0B0E;
+  --dark-focus: #0a0b0ea4;
+  --grey: #c2c2c2;
+  --grey-focus: #c9c9c9;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 0.3s ease-in-out;
+}
+
+h1,
+h2,
+h3,
+ul,
+li,
+a,
+button {
+  list-style: none;
+  text-decoration: none;
+}
+
+body, input, button {
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+}
