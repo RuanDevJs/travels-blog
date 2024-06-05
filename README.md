@@ -16,6 +16,8 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+https://github.com/RuanDevJs/travels-blog/assets/82915279/740759c6-2916-4667-81e9-db0cb64b499a
+
 <h3> Overview 🚀 </h3>
 <p>
 <i>This project is a modern web application built using React.js, TypeScript, and Styled Components. It serves as a platform for me to enhance my front-end development skills, particularly in React.js, TypeScript, and Styled Components, as well as in designing responsive, aesthetically pleasing UI components.</i>
